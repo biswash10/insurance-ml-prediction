@@ -1,5 +1,8 @@
 # Insurance Claim Prediction using Machine Learning
-
+### Members
+- diwas kharel
+- bikash bashyal
+- biswash pokhrel
 ## Project Overview
 
 This project predicts **medical insurance claim costs** using machine
@@ -220,6 +223,3 @@ Future improvements could include:
 
 ------------------------------------------------------------------------
 
-# Author
-
-Machine Learning Project
